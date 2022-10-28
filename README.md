@@ -21,9 +21,9 @@ Before starting, you need to have [Git](https://git-scm.com) and [Node](https://
 
 ```bash
 # Clone this project
-$ git clone https://github.com/PedroHenriqueFernandes/ignite-lab-design-system.git
+$ git clone https://github.com/julialambert/lab-design-system.git
 # Access
-$ cd ignite-lab-design-system
+$ cd lab-design-system
 # Install dependencies
 $ yarn or npm
 # Run the project
